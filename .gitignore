@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+web_hw02_community_with_text/
 # Distribution / packaging
 .Python
 build/
